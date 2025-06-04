@@ -1,7 +1,7 @@
 # Ejercicios-en-C-Kali-linux
 Repositorio con 20 ejercicios de programación en C desarrollados en Kali Linux. Incluye programas básicos, intermedios y avanzados que cubren operaciones matemáticas, estructuras de control, manejo de números y algoritmos y cada ejercicio está implementado en un archivo independiente con validaciones de entrada.
 
-Lista de Ejercicios
+Lista de Ejercicios:
 Estos son los enunciados de cada ejercicio
 
 Nivel Básico
@@ -36,7 +36,7 @@ Nivel Intermedio
 
     ejercicio14.c: Convierte decimal a binario (división por 2)
 
-    Nivel Avanzado
+Nivel Avanzado
 
     ejercicio15.c: Genera serie Fibonacci (0, 1, 1, 2, 3...)
 
